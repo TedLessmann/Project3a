@@ -1,1 +1,1 @@
-# Project3 with unit tests added
+# Project3a: stock visualizer on the web
